@@ -3,7 +3,7 @@ En este repositorio veremos el movimiento armónico amortiguado.
 
 Una versión ejecutable se encuentra disponible en el siguiente Google colab:
 
-https://drive.google.com/file/d/1zmRw_cWvbrKE0sczBM-Ln-gWWUcAu4XH/view?usp=sharing
+https://colab.research.google.com/drive/19mGkYPl5FYlJ9bK3uiRZNBF-6877oQIp?usp=sharing
 
 **Se tiene que abrir en Google colab**
 
